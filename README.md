@@ -1,0 +1,1 @@
+Coding katas in CoffeeScript.
