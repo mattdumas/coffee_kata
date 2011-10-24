@@ -1,0 +1,1 @@
+coffee -w -o target src/main/coffee/ src/test/coffee/
